@@ -1,5 +1,5 @@
 # ConnectFour
-This AI uses the Minimax algorithm to play the game Connect Four. You can find it here without downloading the SFML library:  https://replit.com/@thecleanser/Connect-Four-AI
+This AI uses the Minimax algorithm to play the game Connect Four. You can find it here without downloading the SFML library: https://replit.com/@thecleanser/Connect-4-Bot
 
 ## What it Uses
 This AI was created using C++, and the graphics and GUI were created using SFML (Simple and Fast Multimedia Library). 
